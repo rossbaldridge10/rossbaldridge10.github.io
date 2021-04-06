@@ -7,5 +7,5 @@
   - C
   - Python
 - Linux
-  - Arch
-  - PopOS
+  - [Arch](https://archlinux.org) 
+  - [PopOS](pop.system76.com)
